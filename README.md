@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Char1que
+- 👋 Hi, I’m Maksim
 - 👀 I’m interested in website development
 - 📫 How to reach me: 
 - Telegram: Char1k

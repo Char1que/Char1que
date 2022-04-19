@@ -19,7 +19,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100"/>
 </div>
 ### :fire: My Stats : <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=Char1que&theme=dark&background=000000)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Char1que&theme=solarized_dark)
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
 </div>

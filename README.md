@@ -1,3 +1,21 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500"/>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+<h1 align="center">
+  Hi all!
+</h1>
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="100"/>
+</div>
+
 - 👋 Hi, my name is Maxim
 - 👀 I’m interested in website development
 - 📫 How to reach me: 

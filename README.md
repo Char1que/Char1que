@@ -3,6 +3,7 @@
 </div>
 
 <h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hi+,+my+name+is+Maxim)](https://git.io/typing-svg)
 - 👋 Hi, my name is Maxim <br>
 - 👀 I’m interested in website development <br>
 - 📫 How to reach me: <br>

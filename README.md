@@ -5,14 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 ---
-<h1>
+<h3>
 - 👋 Hi, my name is Maxim
 - 👀 I’m interested in website development
 - 📫 How to reach me: 
 - Telegram: Char1k
 - hh: https://hh.ru/resume/64dce17aff0381f98c0039ed1f6159664b324a
 - vk: https://vk.com/char1k59
-</h1>
+</h3>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">

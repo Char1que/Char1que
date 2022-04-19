@@ -18,11 +18,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="100"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100"/>
 </div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Char1que&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Char1que&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Char1que&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Char1que&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Char1que&theme=solarized_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Char1que&theme=solarized_dark) <br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Char1que&theme=solarized_dark)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Char1que&theme=solarized_dark)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Char1que&theme=solarized_dark)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Char1que&theme=solarized_dark&utcOffset=8)<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
 </div>

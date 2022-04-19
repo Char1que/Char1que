@@ -1,11 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500"/>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
-</div>
+
 ---
-<h3>
+<h3 align="center">
 - 👋 Hi, my name is Maxim <br>
 - 👀 I’m interested in website development <br>
 - 📫 How to reach me: <br>
@@ -21,7 +19,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="100"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100"/>
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 <!---
 Char1que/Char1que is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

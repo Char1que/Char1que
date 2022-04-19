@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500"/>
 </div>
-
 ---
 <h3 align="center">
 - 👋 Hi, my name is Maxim <br>
@@ -11,7 +10,7 @@
 - hh: https://hh.ru/resume/64dce17aff0381f98c0039ed1f6159664b324a <br>
 - vk: https://vk.com/char1k59 <br>
 </h3>
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100"/>
@@ -19,6 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="100"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100"/>
 </div>
+---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
 </div>

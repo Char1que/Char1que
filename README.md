@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 ---
-<h3 display="flex">
-- 👋 Hi, my name is Maxim
+<h3>
+- 👋 Hi, my name is Maxim <br>
 - 👀 I’m interested in website development
 - 📫 How to reach me: 
 - Telegram: Char1k

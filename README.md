@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
 </div>
-<div>
+<div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </div>
 <!---

@@ -18,8 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="100"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100"/>
 </div>
-### :fire: My Stats : <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Char1que&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
 </div>

@@ -7,11 +7,11 @@
 ---
 <h3>
 - 👋 Hi, my name is Maxim <br>
-- 👀 I’m interested in website development
-- 📫 How to reach me: 
-- Telegram: Char1k
-- hh: https://hh.ru/resume/64dce17aff0381f98c0039ed1f6159664b324a
-- vk: https://vk.com/char1k59
+- 👀 I’m interested in website development <br>
+- 📫 How to reach me: <br>
+- Telegram: Char1k <br>
+- hh: https://hh.ru/resume/64dce17aff0381f98c0039ed1f6159664b324a <br>
+- vk: https://vk.com/char1k59 <br>
 </h3>
 
 ### :hammer_and_wrench: Languages and Tools :

@@ -19,7 +19,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100"/>
 </div>
 ### :fire: My Stats : <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Char1que&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cra7yy&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cra7yy&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cra7yy&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cra7yy&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cra7yy&theme=solarized_dark)
+![](https://komarev.com/ghpvc/?username=Cra7yy)
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
 </div>

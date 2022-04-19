@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 ---
-<h3>
+<h3 display="flex">
 - 👋 Hi, my name is Maxim
 - 👀 I’m interested in website development
 - 📫 How to reach me: 

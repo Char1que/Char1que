@@ -23,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 <div>
-<img src=https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </div>
 <!---
 Char1que/Char1que is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500"/>
 </div>
 ---
-<h3 align="center">
+<h3>
 - 👋 Hi, my name is Maxim <br>
 - 👀 I’m interested in website development <br>
 - 📫 How to reach me: <br>

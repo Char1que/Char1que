@@ -20,7 +20,7 @@
 </div>
 ### :fire: My Stats :
 <div align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Char1que-github-username&style=flat-square&color=blue" alt=""/>

@@ -18,6 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="100"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100"/>
 </div>
+### :fire: My Stats : <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Char1que&theme=solarized_dark) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Char1que&theme=solarized_dark)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Char1que&theme=solarized_dark)<br>

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maksim
+- 👋 Hi, my name is Maxim
 - 👀 I’m interested in website development
 - 📫 How to reach me: 
 - Telegram: Char1k
